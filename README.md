@@ -1,10 +1,14 @@
-##The BYG Dotz, small demo released for X party 2024
+# The BYG Dotz, small demo released for X party 2024
 
-Credits :
+## Credits
 
+```
 Music by Magnar
 Graphics by Nyke
 Code by Papapower
+```
+
+## Notes
 
 You will need Kickassembler and optionnally Exomizer to produce the demo.
 Note that due to the random nature of some of the effects, the demo you'll produce will be unique !
